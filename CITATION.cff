@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "NRDCPI + GFN Integrated Model"
+version: "23.0.0"
+doi: "10.5281/zenodo.XXXXXXX"
+date-released: "2026-09-22"
+authors:
+  - name: "NRDCPI-GFN Research Group"
+license: MIT
+repository-code: "https://github.com/Edward_Ozhiganov/nrdcpi-gfn-v22"
+abstract: "Hybrid SDM+ABM coupling GFN risk, hysteresis, liquidity and peripheral conflict escalation."

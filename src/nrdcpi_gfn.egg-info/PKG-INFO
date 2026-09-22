@@ -1,0 +1,35 @@
+Metadata-Version: 2.4
+Name: nrdcpi-gfn
+Version: 23.0.0
+Summary: NRDCPI + GFN Integrated Model
+Author: NRDCPI-GFN Research Group
+License: MIT
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy>=1.24
+Requires-Dist: pandas>=2.0
+Requires-Dist: networkx>=3.0
+Requires-Dist: plotly>=5.15
+Provides-Extra: app
+Requires-Dist: streamlit>=1.28; extra == "app"
+Provides-Extra: dev
+Requires-Dist: pytest>=7.4; extra == "dev"
+Requires-Dist: pytest-cov>=4.1; extra == "dev"
+Dynamic: license-file
+
+# NRDCPI + GFN Integrated Model
+
+Hybrid System Dynamics + Agent-Based Model.
+
+## Install
+
+pip install -e ".[app,dev]"
+
+## Quick start
+
+python examples/01_basic_run.py
+
+## License
+
+MIT

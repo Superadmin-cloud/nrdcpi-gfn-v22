@@ -1,0 +1,11 @@
+numpy>=1.24
+pandas>=2.0
+networkx>=3.0
+plotly>=5.15
+
+[app]
+streamlit>=1.28
+
+[dev]
+pytest>=7.4
+pytest-cov>=4.1

@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+src/nrdcpi_gfn/NRDCPI_GFN_v23.py
+src/nrdcpi_gfn/__init__.py
+src/nrdcpi_gfn/model.py
+src/nrdcpi_gfn/py.typed
+src/nrdcpi_gfn.egg-info/PKG-INFO
+src/nrdcpi_gfn.egg-info/SOURCES.txt
+src/nrdcpi_gfn.egg-info/dependency_links.txt
+src/nrdcpi_gfn.egg-info/requires.txt
+src/nrdcpi_gfn.egg-info/top_level.txt
+tests/test_gfn.py
+tests/test_integration.py
