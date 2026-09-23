@@ -3,7 +3,7 @@ message: "If you use this software, please cite it as below."
 type: software
 title: "NRDCPI + GFN Integrated Model"
 version: "23.0.0"
-doi: "10.5281/zenodo.XXXXXXX"
+doi: "10.5281/zenodo.22907208"
 date-released: "2026-09-22"
 authors:
   - name: "NRDCPI-GFN Research Group"
